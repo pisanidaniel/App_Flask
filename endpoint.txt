@@ -1,0 +1,4 @@
+https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=7c09e99429cb60239a619e494645a6cf
+https://api.themoviedb.org/3/discover/movie?certification_country=US&certification.lte=G&sort_by=popularity.desc&api_key=7c09e99429cb60239a619e494645a6cf
+
+https://api.themoviedb.org/3/discover/movie?primary_release_year=2010&sort_by=vote_average.desc&api_key=7c09e99429cb60239a619e494645a6cf
